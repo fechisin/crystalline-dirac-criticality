@@ -1,0 +1,21 @@
+[project]
+name = "CrystallineDiracCriticality"
+
+[deps]
+SparseArrays = "8ba89e20-0d56-54ab-abe5-1f1ea0bddf8f"
+KrylovKit = "60ddc1d2-9f16-11e8-17e2-6c5b0c2d5c23"
+LinearAlgebra = "37e2e3b7-f89d-539d-b0ee-5d123af2d5b1"
+Plots = "91a5bcdd-55d7-5caf-9e0b-520d859cae80"
+DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
+LsqFit = "f3b207a7-5937-5730-b5a0-7f4af1f3b4f4"
+ProgressMeter = "92933f4c-e287-53d1-8e6d-3f2e0e83a0b0"
+JLD = "dce04be8-3a21-51c7-8c19-1536f149c50f"
+Profile = "9b87118b-4f76-5a3b-a2a7-2e3e4b6dbb92"
+BenchmarkTools = "6e4b80f9-1f3b-5f6e-9baf-2b1f3c8e0f5d"
+Einsum = "5078a376-dacf-537f-8d8b-0f104e54d3e5"
+Optim = "429524aa-4258-5c13-9e84-8c9c2c3c1e0f"
+Graphs = "e7dc6d0d-2d2e-5c6e-88f3-7c3b2c3d1f5a"
+GraphPlot = "bcf75e7e-bf89-5e2b-a2c4-3d5e4f7a8c9b"
+LaTeXStrings = "eadbe1ee-2d08-5f82-a964-7bc2b0b6a4d2"
+Alert = "9e21b0a1-7e23-5d9c-a3f2-4a5b6d7e8f9a"
+Statistics = "10745b16-6b24-57b4-8838-181c28f9b8c4"

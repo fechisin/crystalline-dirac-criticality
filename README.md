@@ -1,6 +1,8 @@
 # Crystalline Dirac Criticality
 
 [![DOI](https://zenodo.org/badge/1116961144.svg)](https://doi.org/10.5281/zenodo.17980048)
+[![arXiv](https://img.shields.io/badge/arXiv-2501.13866-b31b1b.svg)](https://arxiv.org/abs/2501.13866)
+
 
 🚧 This repository is under construction and will be complete by approximately 12/25/25 🚧
 

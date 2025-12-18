@@ -5,4 +5,5 @@ The code is organized into several Jupyter notebooks in the Julia language, one 
 - calculate eigenvalues of Dirac fermions under rotations and translations,
 - extract topological invariants in the gapped phases,
 - measure current and energy density at various critical points.
+  
 You will also find the code to plot the data in the style presented in the manuscript.

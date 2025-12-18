@@ -1,5 +1,7 @@
 # Crystalline Dirac Criticality
 
+🚧 This repository is under construction and will be complete by approximately 12/25/25 🚧
+
 [![DOI](https://zenodo.org/badge/1116961144.svg)](https://doi.org/10.5281/zenodo.17980048)
 
 This repository contains the code necessary to reproduce the numerical results presented in "Disclinations, dislocations, and emanant flux at Dirac criticality" (arXiv:2501.13866).

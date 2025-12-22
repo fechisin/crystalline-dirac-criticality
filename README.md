@@ -4,7 +4,7 @@
 [![arXiv](https://img.shields.io/badge/arXiv-2501.13866-b31b1b.svg)](https://arxiv.org/abs/2501.13866)
 
 
-🚧 This repository is under construction and will be complete by approximately 12/25/25 🚧
+🚧 (UPDATE 12/22/25) This repository is under construction and will be complete by approximately 1/9/26 🚧
 
 This repository contains the code necessary to reproduce the numerical results presented in "Disclinations, dislocations, and emanant flux at Dirac criticality" (arXiv:2501.13866).
 

@@ -3,9 +3,6 @@
 [![DOI](https://zenodo.org/badge/1116961144.svg)](https://doi.org/10.5281/zenodo.17980048)
 [![arXiv](https://img.shields.io/badge/arXiv-2501.13866-b31b1b.svg)](https://arxiv.org/abs/2501.13866)
 
-
-🚧 (UPDATE 1/15/26) This repository is under construction and will be complete by approximately 1/16/26 🚧
-
 This repository contains the code necessary to reproduce the numerical results presented in "Disclinations, dislocations, and emanant flux at Dirac criticality" (arXiv:2501.13866).
 
 The code is organized into several Jupyter notebooks in the Julia language, one for each model studied in the manuscript. In these notebooks, you can find the code to 
